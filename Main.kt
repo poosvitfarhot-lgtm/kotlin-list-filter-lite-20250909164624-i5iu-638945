@@ -1,0 +1,1 @@
+fun main(){val nums=(1..68).toList();println(nums.filter{it%2==0})}
